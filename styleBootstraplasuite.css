@@ -1,0 +1,19 @@
+.bord{
+    border: 1px solid #000;
+}
+
+#monConteneur{
+    height: 1000px;
+}
+
+#contenu-flexible,#contenu-flexible2{
+    border: 1px dotted blue ;
+    height: 200px;
+}
+
+.elts{
+    border: 1px solid rgb(195, 239, 195);
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}

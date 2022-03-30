@@ -1,0 +1,83 @@
+.bord {
+    border: 1px solid #000;
+}
+
+#monConteneur{
+    height: 1000px;
+}
+
+.colonne{
+    height: 200px;
+    border: 1px solid #000;
+}
+
+.colonneun
+{
+    height: 100px;
+    border: 1px solid #000;
+}
+
+.rowHeight{
+    height: 400px;
+}
+
+.rowHeightun
+{
+    height: 500px;
+}
+
+#test
+{
+    height: 300px;
+}
+
+#un
+{
+    background: blue;
+}
+
+#unun
+{
+    background: blue;
+    height: 490px;
+}
+
+#deux
+{
+    background: red;
+}
+
+#trois
+{
+    background: violet;
+}
+
+#sous-un
+{
+    background: turquoise;
+}
+
+#sous-deux
+{
+    background: silver;
+}
+
+#sous-trois
+{
+    background: crimson;
+}
+
+#sous-quatre
+{
+    background: salmon;
+}
+
+#sous-cinq
+{
+    background: saddlebrown;
+}
+
+#sous-six
+{
+    background: royalblue;
+}

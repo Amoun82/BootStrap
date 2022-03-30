@@ -1,0 +1,25 @@
+h1
+{
+    color: red;
+}
+
+.bord
+{
+    border: 1px solid black;
+}
+
+#monConteneur
+{
+    height: 1000px;
+}
+
+.colonne
+{
+    height: 50px;
+    border: 1px solid black;
+}
+
+.maLigne
+{
+    height: 100px;
+}
